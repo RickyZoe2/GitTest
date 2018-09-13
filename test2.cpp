@@ -5,7 +5,7 @@ using namespace std;
 class foo
 {
 public:
- foo(){}
+ foo():i(2){}
  ~foo(){}
 	
 private:
