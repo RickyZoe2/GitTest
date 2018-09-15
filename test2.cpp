@@ -11,4 +11,5 @@ public:
 private:
  int i;
  int temp;
+ int i_QQ;
 }
